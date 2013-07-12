@@ -16,7 +16,7 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 * Do not call incessantly to find out if we’ve made a decision. We’ll give you a timeframe. If we say we’re going to get back to you on Monday, that’s when we’ll get back to you.
 
 ### Positions
-* If you want to know about available jobs, keep an eye on our jobs page or twitter feed.
+* If you want to know about available jobs, keep an eye on our [jobs page](http://vzaar.com/jobs) or [twitter feed](https://twitter.com/vzaar).
 * Each position will have its own specific email address. Send CVs to that email address for that position only.
 * Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
 
@@ -40,7 +40,7 @@ _Doing any of these will result in being automatically blacklisted and we won't 
 
 
 ## Terms & Fees
-_These Terms supercede any similar terms in indivudal agency's contracts._
+_These Terms supercede any similar terms in individual agency's contracts._
 
 * We will pay 15% of year 1 base salary
 * We will pay within 30 days of invoicing
